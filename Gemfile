@@ -2,5 +2,5 @@ source :rubygems
 
 group :development do
   gem 'jekyll'
-  gem 'rdiscount'
+  gem 'kramdown'
 end
