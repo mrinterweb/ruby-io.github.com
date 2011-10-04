@@ -1,0 +1,13 @@
+---
+server: false
+
+markdown: kramdown
+
+pygments: true
+
+permalink: pretty
+
+host: http://ruby.io
+
+exclude: drafts
+---
