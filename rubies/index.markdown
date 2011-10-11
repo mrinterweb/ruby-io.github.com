@@ -1,7 +1,7 @@
 ---
 layout: site
 header: Rubies
-rubies_active: active
+rubies-active: active
 ---
 
 ## Concurrency Issues &amp; Patterns

@@ -1,7 +1,7 @@
 ---
 layout: site
 header: Projects
-projects_active: active
+projects-active: active
 ---
 
 ## Projects

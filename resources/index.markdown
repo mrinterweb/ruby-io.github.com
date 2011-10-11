@@ -1,7 +1,7 @@
 ---
 layout: site
 header: Resources
-resources_active: active
+resources-active: active
 ---
 
 ## Resources

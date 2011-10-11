@@ -1,5 +1,5 @@
 ---
 layout: site
 header: CRuby/MRI
-rubies_active: active
+rubies-active: active
 ---

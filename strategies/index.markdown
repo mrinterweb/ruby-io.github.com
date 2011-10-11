@@ -1,7 +1,7 @@
 ---
 layout: site
 header: Strategies
-strategies_active: active
+strategies-active: active
 ---
 
 ## Concurrency Patterns
