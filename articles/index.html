@@ -1,0 +1,17 @@
+---
+layout: site
+header: Our Articles
+articles_active: true
+---
+  <div class="container posts_index">
+  <h2>{{ page.title }}</h2>
+  <ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}" title="{{ post.title }}" class="post_title"> {{ post.title }} </a>
+      <span class="author">{{ post.author }}</span>
+      <span class="date">{{ post.date | date: "%d %B %Y" }}</span>
+    </li>
+  {% endfor %}
+  </ul>
+  </div>
