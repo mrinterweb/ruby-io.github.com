@@ -1,5 +1,5 @@
 ---
 layout: site
-header: Rubinius - Use Ruby&trade;
+header: CRuby/MRI
 rubies_active: active
 ---

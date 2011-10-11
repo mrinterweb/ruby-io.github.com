@@ -1,5 +1,5 @@
 ---
 layout: site
-header: Rubinius - Use Ruby&trade;
+header: MagLev - Ruby that scales&trade;
 rubies_active: active
 ---

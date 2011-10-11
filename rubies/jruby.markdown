@@ -1,5 +1,5 @@
 ---
 layout: site
-header: Rubinius - Use Ruby&trade;
+header: JRuby - Ruby on the JVM
 rubies_active: active
 ---
